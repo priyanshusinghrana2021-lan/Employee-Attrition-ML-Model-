@@ -39,8 +39,8 @@ The project uses:
 # Model Performance
 
 The model performance is evaluated using:
-Accuracy Score
-Classification Report
+- Accuracy Score
+- Classification Report
 
 
 
